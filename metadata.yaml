@@ -1,5 +1,5 @@
 homepage: "https://ideta.io"
 documentation: "https://ideta.io/blog-posts-english/deploy-your-chatbot-with-google-tag-manager"
 versions:
-  - sha: 50a14a2f8a0b7935599d0ab705c1385051e48700
+  - sha: f5de310ee9bb0f4c3898735678477e874a223ac3
     changeNotes: Initial release.
