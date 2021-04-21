@@ -117,7 +117,7 @@ ___WEB_PERMISSIONS___
             "listItem": [
               {
                 "type": 1,
-                "string": "https://firebasestorage.googleapis.com/v0/b/ideta-prod.appspot.com"
+                "string": "https://firebasestorage.googleapis.com/v0/b/ideta-prod.appspot.com/"
               }
             ]
           }
